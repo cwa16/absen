@@ -1,0 +1,1 @@
+<a href="{{ route('view-summary-emp-reg',$nik) }}" class="btn btn-primary btn-sm" style="margin-bottom: -1px;">VIEW</a>

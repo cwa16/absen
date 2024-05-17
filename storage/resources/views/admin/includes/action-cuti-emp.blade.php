@@ -1,0 +1,1 @@
+<a href="{{ route('input-cuti', $nik) }}" class="btn btn-primary btn-sm" target="_blank">CUTI</a>

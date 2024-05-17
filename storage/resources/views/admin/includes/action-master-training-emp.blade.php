@@ -1,0 +1,1 @@
+<a href="{{ route('detail-training-emp',$nik) }}" class="btn btn-primary btn-sm">VIEW</a>

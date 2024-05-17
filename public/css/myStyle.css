@@ -1,0 +1,19 @@
+html, body, table, button, a {
+  font-family: 'Karla', sans-serif !important;
+}
+
+body {
+  background-image: url('./assets/img/bg-login.jpg') !important;
+}
+
+table.table-detail td,
+table.table-detail th{
+  white-space: inherit;
+  font-size: 11px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+textarea {
+    resize: none !important;
+}

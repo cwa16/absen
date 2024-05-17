@@ -1,0 +1,1 @@
+<input type="checkbox" class="form-check-input check-manager" name="check-manager" id="check-manager" value="{{ $id }}">

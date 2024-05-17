@@ -1,0 +1,1 @@
+<a href="{{ route('view-summary-emp',$id) }}" class="btn btn-primary btn-sm">VIEW</a>

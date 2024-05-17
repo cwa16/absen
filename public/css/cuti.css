@@ -1,0 +1,59 @@
+.table-1, .table-2, .table-3, .table-4, .table-5 {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.td-2 {
+  border: 1px solid #000000;
+}
+
+.pt {
+  font-size: 22px;
+}
+
+.black-bg {
+  background: rgb(0, 0, 0);
+  color: white;
+  height: 30px;
+}
+
+.box-small {
+  height: 25px;
+}
+
+
+td {
+  width: 500px;
+}
+
+.text-kanan {
+  float: right;
+}
+
+.text-tengah {
+  text-align: center;
+}
+
+.table-2, .table-3, .table-4, .table-5 {
+  margin-top: 15px;
+}
+
+.to {
+  width: 50px;
+}
+
+.g-kiri {
+  width: px;
+}
+
+.signature {
+  vertical-align: top;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.box {
+  height: 80px;
+}
